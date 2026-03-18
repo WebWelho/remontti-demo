@@ -1051,10 +1051,9 @@ export default function Home() {
       </main>
       <Footer />
       <MobileStickyBar />
-    </div>
-      {/* Portfolio footer */}
       <div style={{textAlign:"center",padding:"14px",fontSize:"12px",color:"#999",borderTop:"1px solid rgba(0,0,0,0.1)"}}>
         Toteutettu{" "}<a href="https://webwelho.com" style={{color:"#666",textDecoration:"none"}}>WebWelho</a>{" "}Perus-paketilla · webwelho.com
       </div>
+    </div>
   );
 }
